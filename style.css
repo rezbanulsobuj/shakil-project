@@ -1,0 +1,45 @@
+*{
+			margin:0;
+			padding:0;
+			}
+		.red{
+			background-color:red;
+			min-height: 50px;
+		}
+		.container{
+			overflow:hidden;
+			}
+		.green{
+			background-color:green;
+			min-height: 200px;
+			float:left;
+			width: 60%;
+		}
+		.blue{
+			background-color:blue;
+			min-height: 200px;
+			float:right;
+			width: 40%;
+		}
+		.yellow{
+			background-color:yellow;
+			min-height: 200px;
+			width: 33.33%;
+			float:left;
+		}
+		.pink{
+			background-color:pink;
+			min-height: 200px;
+			width: 33.33%;
+			float:right;
+		}
+		.gray{
+			background-color:gray;
+			min-height: 200px;
+			width: 33.33%;
+			float:right;
+		}
+		.black{
+			background-color:black;
+			min-height: 80px;
+			}
